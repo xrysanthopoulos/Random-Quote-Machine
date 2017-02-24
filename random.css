@@ -1,0 +1,67 @@
+body {
+  margin:0;
+  padding:0;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+}
+
+.name {
+  position:absolute;
+  display: block;
+  float:left;
+  color:#fff;
+  background:#0c2231;
+  font-size:0.9em;
+}
+
+.name a{
+  text-decoration: none;
+  color:#fff;
+}
+
+h1{
+  padding:40px;
+  color:#fff;
+}
+
+.btn{
+  margin-bottom:25px;
+  color:#fff;
+  font-size:0.6em;
+}
+
+.btn:hover {
+  opacity:0.9;
+  color:#fff;    
+}
+
+.quote-box{
+  border:solid;
+  border-radius:15px;
+  background:#fff;
+  position:relative;
+  margin: auto;
+  width: 600px;
+  padding: 60px 50px;
+  position:table;
+  text-align:center;
+  font-size:2em;
+}
+
+
+
+.left{
+  float:left;
+}
+
+.right {
+  float:right;
+}
+
+
+.author{
+  font-size:0.7em;
+  font-style:italic;
+  float:right;
+  padding-top: 20px;
+}
